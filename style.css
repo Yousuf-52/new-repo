@@ -1,0 +1,38 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+/*navbar start  */
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 1.5rem;
+}
+/* navbar end */
+
+/* carouse- sider css start  */
+ 
+.w-100 {
+    width: 101%!important;
+    height: 80vh;
+}
+a.btn.btn-danger {
+    margin-bottom: 22px;
+}
+a.btn.btn-warning {
+    margin-bottom: 22px;
+}.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 4.25rem;
+    color: #fff;
+    text-align: center;
+     
+}
+/* carouse-end css */
