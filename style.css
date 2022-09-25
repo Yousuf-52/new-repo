@@ -6,6 +6,15 @@
 body{
   font-family: 'Montserrat', sans-serif;
 }
+section{
+    padding: 40px;
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
 /*navbar start  */
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 0.5rem;
